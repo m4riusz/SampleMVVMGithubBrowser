@@ -12,6 +12,7 @@ target 'SampleGithubMVVMBrowser' do
   pod 'Alamofire', '~> 5.0.0.beta.1'
   pod 'SnapKit'
   pod 'MBProgressHUD', '~> 1.1.0'
+  pod 'SDWebImage', '~> 4.0'
   
   target 'SampleGithubMVVMBrowserTests' do
     inherit! :search_paths
