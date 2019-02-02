@@ -1,0 +1,5 @@
+Pods/
+Podfile.lock
+*xcschememanagement.plist
+SampleGithubMVVMBrowser.xcworkspace/contents.xcworkspacedata
+SampleGithubMVVMBrowser.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
